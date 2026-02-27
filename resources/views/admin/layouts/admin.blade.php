@@ -4,7 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<<<<<<< HEAD
     <title>Blog CMS - Rabbit</title>
+=======
+    <title>Blog CMS - Rabbit </title>
+>>>>>>> c9091050a84bdcd5bc06363f4cfd26a1459b85a5
     <meta name="author" content="Yasser Elgammal">
     <meta name="description" content="Admin panel for managing blog content and settings.">
     <!-- Tailwind -->
